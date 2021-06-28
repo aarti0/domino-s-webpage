@@ -1,0 +1,146 @@
+.clear  li {
+    list-style: none;
+    float: left;
+    display: inline-block;
+  padding: 37px 8px 7px 10px;
+  
+  font-weight:bold;
+}
+.clear li a{
+ color: darkgray;
+ 
+}
+
+.clear li a:hover, .clear li.selected a {
+	color: darkblue;
+}
+
+.button1 {
+  background-color: #ff0000;
+  border: none;
+  color: white;
+  height:45px;
+  width:200px;
+  margin-left: 30px;
+margin-top: 28px;
+margin-bottom: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
+.header1{
+
+    padding-top: 80px;
+    padding-left: 90px;
+    color: white;
+  
+}
+
+.top{
+
+  background-color: #0073aa;
+  
+  }
+
+
+
+
+.data1{
+  font-size:20px;
+  color:#4090e4;
+}
+.dotted{
+  border-top: 1px dotted lightgray;
+ 
+}
+
+h3{color:grey;}
+
+.footer1{
+  color:lightblue;
+  font-size:14px;
+  text-align:center;
+  
+}
+h5{
+  padding:5px;
+  color:gray;
+}
+h6{
+  color:gray;
+  font-weight: bold;
+}
+
+
+.footer li{
+  list-style: none;
+  padding:10px;
+  color:white;
+}
+.footer{
+  background-color: black;
+  
+}
+h1{
+  font-weight: bold;
+}
+
+.main{
+  background:#f2f5fb;
+  color:grey;
+}
+.data{
+  color:grey;
+  font-size: 25px;
+
+}
+.maindata{
+  padding:50px;
+}
+.side{
+  padding:90px;
+
+}
+.box1{
+  text-align:center;
+ color:red;
+  border: 1px dotted lightgray;
+  padding-top: 10px;
+  font-size:13px;
+  font-weight: bold;
+  
+}
+
+.box{
+  border: 1px dotted lightgray;
+  text-align:center;
+  
+  padding :10px;
+  
+  
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 400px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.img{
+  float: right;
+  width: min-content;
+ 
+}
